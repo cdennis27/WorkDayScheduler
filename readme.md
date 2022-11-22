@@ -24,8 +24,6 @@ N/A
 
 N/A
 
-## Link to proposal: https://github.com/cdennis27/budgettrackergroup2/blob/main/budgettrackerprop.pdf
-
 ## Usage
 
 Good application for daily planning.
@@ -36,11 +34,11 @@ Good application for daily planning.
 
 ## Link to Application
 
-https://cdennis27.github.io/budgettrackergroup2/
+https://cdennis27.github.io/WorkDayScheduler/
 
 ## Link to the GitHub repository
 
-https://github.com/cdennis27/budgettrackergroup2
+https://github.com/cdennis27/WorkDayScheduler
 
 ### Credits
 
