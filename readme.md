@@ -30,7 +30,7 @@ Good application for daily planning.
 
 ## Screenshots
 
-![ScreenShots of Application in use.](./assets/Screenshot1.jpg)
+![ScreenShots of Application in use.](./Assets/Screenshot1.jpg)
 
 ## Link to Application
 
